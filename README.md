@@ -1,19 +1,4 @@
-# front
+# SWApi  
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Был исопользован Vue.js 3 версии;  
+Проект запускается на порту 8080;  
